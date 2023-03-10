@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body {
+    
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+div.main{width: 400px;
+    margin: 100px auto 100px auto;
+   
+
+}
+div.login{
+    background-color: rgba(0,0,0,0.5);
+    width:auto;
+    height: 190px;
+    border-radius: 20px;
+    border: 1px solid rgba(255,265,255,0.3);
+    box-shadow: 2px 2px 15px rgba(0,0,0,0.3);
+    color:#ffff;
+}
+h1{
+    margin-left:120px;
+}
+label{
+    margin-left:20px;
+   
+}
+input#submit{
+padding: 20px ;
+position: absolute;
+left:640px;
+top: 260px;
+border-style: groove;
+border-radius: 190px;
+cursor: pointer;
+}
